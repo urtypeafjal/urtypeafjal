@@ -25,7 +25,7 @@
     <a href="https://www.linkedin.com/in/mo-afjal-ansari-55a795419">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
     </a>
-    <a href="https://www.instagram.com/_cyvora?igsh=MmliZGtybGtqN2N0">
+    <a href="https://www.instagram.com/_uhhgh?igsh=MmliZGtybGtqN2N0">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
     </a>
     <a href="https://x.com/af7x_7?t=IlWDb8OZkn2WiT1cjrqmMw&s=09">
